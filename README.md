@@ -22,8 +22,8 @@ Responsive Design: Used CSS Flexbox to create a layout that adapts to different 
 Code Highlights
 Here’s a snippet of JavaScript used to fetch and display the current weather data
 
-Javascript
-```
+
+```javascript
 // Function to fetch and display weather data from Open-Meteo
 async function getWeatherData(lat, lon) {
     const response = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`);
