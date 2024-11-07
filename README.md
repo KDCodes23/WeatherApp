@@ -1,8 +1,8 @@
 🌤️ Simple Weather App Project
-Welcome to the Simple Weather App! This project is part of a journey to build practical web applications with core web technologies. This app is built using HTML5, CSS3, and JavaScript, along with the Open-Meteo API to display live weather information.
+Welcome to the Simple Weather App! This project is part of a journey to build practical web applications with core web technologies. This web-app uses HTML5, CSS3, JavaScript, and the Open-Meteo API to display live weather information.
 
 📅 Project Log
-Day X - Project: Weather App (HTML, CSS, JavaScript)
+Day 1 - Project: Weather App (HTML, CSS, JavaScript)
 For today’s project, I created a weather app that lets users search for the current weather in any city, showing details like temperature, humidity, and wind speed.
 
 Project Overview
