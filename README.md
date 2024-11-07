@@ -23,7 +23,7 @@ Code Highlights
 Here’s a snippet of JavaScript used to fetch and display the current weather data
 
 Javascript
-
+```
 // Function to fetch and display weather data from Open-Meteo
 async function getWeatherData(lat, lon) {
     const response = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`);
@@ -40,6 +40,7 @@ function displayWeather(data) {
     `;
 }
 
+```
 
 Challenges
 Handling invalid city names and displaying appropriate error messages.
